@@ -74,6 +74,10 @@ Para mostrar el modal he creado la función **cargarModal** siguiente:
 
 ![Código Cargar Modal](./assets/imgs/screenshots/code_modal.webp)
 
+La siguiente imagen muestra el modal operando:
+
+![Screenshot Modal](./assets/imgs/screenshots/screenshot_modal.webp)
+
 Por último, además implementé la funcionalidad de eliminar los elementos ya agregados al canvas creando la función **controlEliminarAnimal** siguiente:
 
 ![Código Eliminar Animal](./assets/imgs/screenshots/code_eliminar_animal.webp)
