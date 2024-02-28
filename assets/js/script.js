@@ -11,7 +11,7 @@ let nombreClase = null;
 
 (async function cargarData() {
   try {
-    const responseObject = await fetch("../../animales.json");
+    const responseObject = await fetch("./animales.json");
     const { animales } = await responseObject.json();
     let objConClase = {};
 
